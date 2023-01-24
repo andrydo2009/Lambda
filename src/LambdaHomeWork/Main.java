@@ -96,8 +96,6 @@ public class Main {
 
 
 
-
-
     }
 
     public static <T, U> Function<T, U> ternaryOperator(
